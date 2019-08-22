@@ -47,6 +47,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 </head>
 	
 <body>
+    <h1> Hello world</h1>
 <script src='js/jquery.min.js'></script><script src="js/monetization.js" type="text/javascript"></script>
 <script>
 (function(){
