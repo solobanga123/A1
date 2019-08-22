@@ -11,7 +11,7 @@ and open the template in the editor.
     </head>
     <body>
         <h1> xin chao viet nam </h1>
-        <a href="index.html">mywebsite</a>
+        <a href="index.html">mywebs</a>
         <?php
         // put your code here
         ?>
